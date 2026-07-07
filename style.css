@@ -87,8 +87,6 @@ section img {
     margin-left: 250px;
     margin-top: 80px;
 }
-p > p {
-}
 .i {
     color: white;
     background-color: rgb(14, 13, 13);
@@ -100,67 +98,16 @@ p > p {
     color: darkolivegreen;
     margin-bottom: 20px;
     font-size: 20px;
-    margin-left: 40px;
+    margin-left: -60px;
     
-}
 
-.ivy {
-    color: darkolivegreen;
-    margin-left: 100px;
-    font-size: 20px;
-    
-   
-}
-
-.veno {
-    color: darkolivegreen;
-    margin-left: 90px;
-    font-size: 20px;
-    
-    
-}
-
-.char {
-    color: rgb(247, 105, 4);
-    font-size: 19px;
-    margin-left: 88px;
-    
-    
-}
-.charizard {
-    font-size: 20px;
-    margin-left: -660px;
-    color: rgb(247, 105, 4);
-    
-    
 }
 .imgbulba {
     margin-top: 40px;
-    margin-left: 30px;
-    
-}
-.imgivy {
-    margin-left: 15px;
-}
-
-.imgveno {
-    margin-left: 15px;
-    min-width: 150px;
-    margin-top: 40px;
+    margin-left: -80px; 
     
 
 }
-.imgchar {
-    margin-left: 25px;
-    background-color: rgba(230, 130, 59, 0.788);
-}
-
-.imgchar1 {
-    background-color: rgba(230, 130, 59, 0.788);
-    margin-left: -660px;
-    
-}
-
 .planta {
     color: rgb(43, 81, 99);
     background-color: darkseagreen;
@@ -168,10 +115,9 @@ p > p {
     padding-left: 15px;
     padding-bottom: 2px;
     padding-right: 15px;
-    margin-left: -10px;
-    min-width: 16px;
-}
+    margin-left: -70px;
 
+}
 .poison {
     color: rgb(36, 31, 65);
     margin-left: 1px;
@@ -183,86 +129,7 @@ p > p {
     
 }
 
-.planta1 {
-    color: rgb(43, 81, 99);
-    background-color: darkseagreen;
-    padding-left: 15px;
-    padding-bottom: 2px;
-    padding-right: 15px;
-    margin-left: 30px;
-    border-radius: 5px;
+.imgivy {
+    margin: 0px;
+    margin-left: 80px;
     
-    
-}
-
-.poison1 {
-    color: rgb(36, 31, 65);
-    background-color: rgb(103, 89, 194);
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 2px;
-    border-radius: 5px;
-    
-   
-}
-.planta2 {
-    color: rgb(43, 81, 99);
-    background-color: darkseagreen;
-    padding-left: 15px;
-    padding-bottom: 2px;
-    padding-right: 15px;
-    border-radius: 5px;
-    margin-left: 15px;
-    
-    
-}
-.poison2 {
-    color: rgb(36, 31, 65);
-    background-color: rgb(103, 89, 194);
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 2px;
-    border-radius: 5px;
-    
-    
-}
-.fogo {
-    color: rgb(160, 68, 3);
-    background-color: rgb(255, 130, 41);
-    margin-left: 65px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 2px;
-    border-radius: 5px;
-    
-    
-}
-.fogo1 {
-    color: rgb(160, 68, 3);
-    background-color: rgb(255, 130, 41);
-    margin-left: 120px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 2px;
-    border-radius: 5px;
-    
-}
-.linha2 {
-    color: rgb(160, 68, 3);
-    background-color: rgb(255, 130, 41);
-    margin-left: -650px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 2px;
-    border-radius: 5px;
-    
-    
-}
-.voador {
-    background-color: cornflowerblue;
-    margin-left: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 2px;
-    border-radius: 5px;
-}
