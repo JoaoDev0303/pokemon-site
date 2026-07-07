@@ -107,6 +107,11 @@ section img {
     font-size: 19px;
     margin-left: 88px;
 }
+.charizard {
+    font-size: 20px;
+    margin-left: 290px;
+    color: rgb(247, 105, 4);
+}
 
 .imgivy {
     margin-left: 15px;
@@ -118,6 +123,11 @@ section img {
 .imgchar {
     margin-left: 25px;
     background-color: rgba(230, 130, 59, 0.788);
+}
+
+.imgchar1 {
+    background-color: rgba(230, 130, 59, 0.788);
+    margin-left: 250px;
 }
 
 .planta {
@@ -176,6 +186,7 @@ section img {
     border-radius: 5px;
 }
 .fogo {
+    color: rgb(160, 68, 3);
     background-color: rgb(255, 130, 41);
     margin-left: 65px;
     padding-left: 15px;
@@ -184,8 +195,26 @@ section img {
     border-radius: 5px;
 }
 .fogo1 {
+    color: rgb(160, 68, 3);
     background-color: rgb(255, 130, 41);
     margin-left: 120px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 2px;
+    border-radius: 5px;
+}
+.linha2 {
+    color: rgb(160, 68, 3);
+    background-color: rgb(255, 130, 41);
+    margin-left: 250px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 2px;
+    border-radius: 5px;
+}
+.voador {
+    background-color: cornflowerblue;
+    margin-left: 15px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 2px;
