@@ -7,129 +7,25 @@
 
 
 body {
-    background-color: gray;
-    
+    background-color: gray; 
 }
-
-header {
-    background-color: white;
-    
-}
-
-header > a {
-    font-family: 'Courier New', Courier, monospace;
-    margin-left: 15px;
-    margin-bottom: 90px;
-    padding-bottom: 15px;
-    width: 100%;
-
-}
-header img {
-    margin-left: 80px;
-    padding-top: 7px;
-    padding-bottom: 7px;
-}
-
-nav {
-    background-color: rgb(14, 13, 13);
-    
-    
-}
-
-nav img {
-    background-color: cornflowerblue;
-    margin-left: 980px;
-
-}
-
-nav h1 {
+#container {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     text-align: center;
-    color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
-nav p {
-    border: 1px solid black;
-    border-radius: 10px;
-    padding: 7px;
+#conteudo {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
     text-align: center;
-    margin-left: 650px;
-    margin-right: 650px;
-    color: white;
-    background-color: white;
-    margin: auto;
-    min-width: 320px;
-    max-width: 400px;
+    left: 50%;
+    top: 50%;
+    transform: translate(px, -2px);
 }
-main {
-    border: 2px solid gray;
-    margin-top: 20px;
-    margin-left: 25px;
-    margin-right: 25px;
-}
-
-main section {
-    text-align: center;
-    margin: auto;
-    min-width: 430px;
-    max-width: 1200px;
-}
-section {  
-    background-color: aliceblue;
-    border-radius: 7px;
-}
-
-section img {
-    background-color: rgba(127, 255, 212, 0.486);
-    border-radius: 10px;
-    margin-left: 250px;
-    margin-top: 80px;
-}
-.i {
-    color: white;
-    background-color: rgb(14, 13, 13);
-    border-radius: 0px;
-    border: none;
-}
-
-.bulba {
-    color: darkolivegreen;
-    margin-bottom: 20px;
-    font-size: 20px;
-    margin-left: -60px;
-    
-
-}
-.imgbulba {
-    margin-top: 40px;
-    margin-left: -80px; 
-    
-
-}
-.planta {
-    color: rgb(43, 81, 99);
-    background-color: darkseagreen;
-    border-radius: 5px;
-    padding-left: 15px;
-    padding-bottom: 2px;
-    padding-right: 15px;
-    margin-left: -70px;
-
-}
-.poison {
-    color: rgb(36, 31, 65);
-    margin-left: 1px;
-    background-color: rgb(103, 89, 194);
-    border-radius: 5px;
-    padding-left: 15px;
-    padding-bottom: 2px;
-    padding-right: 15px;
-    
-}
-
-.imgivy {
-    margin: 0px;
-    margin-left: 80px;
     
