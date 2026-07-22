@@ -57,10 +57,11 @@
         margin: auto;
     }
     p#nome {
-        color: white;
+        color: rgb(243, 242, 242);
         text-align: left;
         padding-bottom: 10px;
         padding-top: 12px;
+        
     }
     form {
         margin-left: 14px;
@@ -75,7 +76,7 @@
         margin-top: 15px;
         margin-left: 40px;
         margin-right: 40px;
-        border-radius: 2px;
+        border-radius: 7px;
     }
     p#numero {
         color: rgb(112, 96, 204);
@@ -112,7 +113,7 @@
         margin-top: 15px;
         margin-left: 40px;
         margin-right: 40px;
-        border-radius: 2px;
+        border-radius: 7px;
     }
     p#numero1 {
         color: rgb(112, 96, 204);
@@ -121,9 +122,9 @@
         margin-top: 4px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
-    p#cor002 {
+    p.cor002 {
         margin-left: 25px;
-        background-color: rgb(212, 49, 8);
+        background-color: rgb(223, 76, 40);
         border-radius: 4px;
         margin-right: 340px;
         margin-left: 40px;
