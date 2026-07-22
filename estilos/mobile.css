@@ -44,7 +44,7 @@
     img#mobile {
         display: block;
         width: 130px;
-        
+        margin: auto;
     }
     img#pokemon-mobile {
         display: block;
@@ -53,6 +53,7 @@
     }
     div#pesquisa {
         padding-left: 20px;
+        margin: auto;
     }
     p#nome {
         color: white;
