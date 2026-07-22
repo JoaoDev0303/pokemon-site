@@ -4,10 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Estatisticas Pokémon</title>
-   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="estilos/mobile.css">
     <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
 </head>
 <body>
-    
+    <header>
+        <img id="mobile" src="imagens/pokemon_logo.png" alt="Versão de celular">
+        <p id="cabe">Sua Pokédex</p>
+    </header>
+    <main>
+        <div id="pesquisa">
+            <p id="nome">Nome ou número</p>
+            <form action="pesquisa" method="get" autocomplete="on">
+                <input type="text" name="Pesquisar" id="ipesquisa">
+                <input type="submit" value="Pesquisar">
+            </form>
+            <p id="nome">Use a barra de pesquisa acima para o tipo de Pokémon, fraqueza e habilidades.</p>
+        </div>
+        <div id="fundo"><img id="pokemon-mobile" src="primeria-geracao/bulbassaur.png" alt="bulbassauro-mobile">
+        </div>
+        <p id="numero">Número 0001
+        </p>
+        <p class="nome">Bulbassaur</p>
+            <p class="cor000">Planta</p>
+            <p class="cor001">Poison</p>
+    </main>
 </body>
 </html>
